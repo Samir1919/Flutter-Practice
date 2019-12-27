@@ -1,1 +1,4 @@
-# For better understanding visit https://flutter.dev/docs/cookbook
+This is my personal flutter practise file 
+
+# If you want to learn flutter please visit
+#  https://flutter.dev/docs/cookbook
